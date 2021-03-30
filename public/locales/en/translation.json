@@ -1,0 +1,33 @@
+{
+    "title":"Title",
+    "home":"home Coronavirus",
+    "headTitle":"Prevent the Spread Stay at Home, Stay Safe",
+    "Coronavirus":"Coronavirus",
+    "Covid-19":"Covid-19",
+    "headP":"The best way to prevent and slow down transmission is be well informed about the COVID-19 virus. Protect yourself and others from infection by washing your hands at-least 20sec and not touching your face.",
+    "CONFIRMED":"CONFIRMED",
+    "DEATHS":"DEATHS",
+    "RECOVERED":"RECOVERED",
+    "About":"About the disease",
+    "pOne":" COVID-19 is a new illness that can affect your lungs and airways. It's caused by a virus called coronavirus. It was discovered in December 2019 in Wuhan, Hubei, China.",
+    "pTwo":"Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing difficulties. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death.",
+    "pThree":"Standard recommendations to prevent infection spread include regular hand washing, covering mouth and nose when coughing and sneezing, thoroughly cooking meat and eggs. Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing."
+    ,"symptoms?":"What are the symptoms of COVID-19?",
+    "Symptoms-of-Coronavirus":"Symptoms of Coronavirus",
+    "Continuous-cough":"Continuous cough",
+    "cough":" this means coughing a lot for more than an hour, or 3 or more coughing episodes in 24 hours (if you usually have a cough, it may be worse than usual)",
+    "Difficulty-breathing":"Difficulty breathing",
+    "breathing":"Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing or shortness of breath.",
+    "High":"High Fever",
+    "Fever":"this means you feel hot to touch on your chest or back (you do not need to measure your temperature). It is a common sign and also may appear in 2-10 days if you affected.",
+    "flag":"flag",
+    "nameCountry":"Name Country",
+    "total":"Total",
+    "active":"Active",
+    "call":"Stay at home and call your doctor:",
+    "call2":"If you think you have been exposed to COVID-19 and develop a fever and any symptoms, such as ctough or difficulty breathing, call your healthcare provider as soon as possible for medical advice."
+    ,
+    "line":"help line",
+    "search":"search"
+
+}

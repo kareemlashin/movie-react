@@ -1,0 +1,28 @@
+body {
+  all: unset;
+  overflow-x: hidden !important;
+  font-family: 'Cairo', sans-serif !important;
+}
+
+html, #root {
+  padding: 0;
+  margin: 0;
+  font-family: 'Cairo', sans-serif !important;
+}
+
+.IndexWrapper {
+  min-height: 100vh !important;
+  width: 100% !important;
+  overflow-x: hidden !important;
+  font-family: 'Cairo', sans-serif !important;
+}
+
+[dir="rtl"] {
+  text-align: right;
+  direction: rtl;
+}
+
+[dir="ltr"] {
+  text-align: left;
+  direction: ltr;
+}
